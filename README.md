@@ -1,1 +1,1 @@
-# game
+`root/img`
